@@ -26,9 +26,6 @@ const circle = {
   }
 }
 
-
-//every code above this line goes to a module.js file
-
 // Use `import` and `export` to make the below code work:
 //these lines go to index.html - Do not edit below this line!
 console.log(isIsosceles(3,7,7) === true)
