@@ -26,11 +26,11 @@ const circle = {
   }
 }
 
-// Use `import` and `export` to make the below code work:
-//
-// e.g. import {pizza} from "jammy"
 
-// Do not edit below this line
+//every code above this line goes to a module.js file
+
+// Use `import` and `export` to make the below code work:
+//these lines go to index.html - Do not edit below this line!
 console.log(isIsosceles(3,7,7) === true)
 console.log(triangle.area(4,7) === 14)
 console.log(square.area(2,2) === 4)
